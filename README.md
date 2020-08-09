@@ -1,3 +1,2 @@
 
-oiawef
-used to learn principles of the React framework ie component architecture, redux, firebase
+Practice website used to learn principles of the React framework (i.e. component architecture, redux, firebase)
